@@ -3,5 +3,5 @@ Streaming ROBLOX from an Android phone to a Linux PC, and controlling it. All wi
 
 ## Credits
 
-Sam Sneed - Helping
-Sammy Lord - Helping/Visionary/Creating the idea.
+* Sam Sneed - Helping
+* Sammy Lord - Helping/Visionary/Creating the idea.
